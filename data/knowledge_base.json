@@ -1,0 +1,222 @@
+{
+  "apple_pie": {
+    "nome": "Torta di mele (Apple Pie)",
+    "origine": "Stati Uniti / Inghilterra",
+    "categoria": "dolce",
+    "descrizione": "Torta da forno con guscio di pasta brisée ripieno di mele cotte, zucchero e cannella. Dolce casalingo, caldo e confortante, tipico dell'autunno.",
+    "ingredienti": ["mele", "farina", "burro", "zucchero", "cannella", "uova", "succo di limone"],
+    "porzione_g": 125,
+    "calorie_kcal": 300,
+    "nutrienti_g": {"proteine": 2.5, "carboidrati": 43, "grassi": 14, "fibre": 2},
+    "tag": ["dolce", "al forno", "frutta", "cannella", "autunnale", "confortante", "dessert"]
+  },
+  "baklava": {
+    "nome": "Baklava",
+    "origine": "Turchia / Medio Oriente",
+    "categoria": "dolce",
+    "descrizione": "Dolce a strati di pasta fillo croccante farcita con frutta secca tritata e bagnata con sciroppo di miele. Molto dolce, ricco e aromatico.",
+    "ingredienti": ["pasta fillo", "noci", "pistacchi", "burro", "miele", "zucchero", "cannella"],
+    "porzione_g": 80,
+    "calorie_kcal": 340,
+    "nutrienti_g": {"proteine": 5, "carboidrati": 38, "grassi": 20, "fibre": 2},
+    "tag": ["dolce", "miele", "frutta secca", "croccante", "sciroppo", "dessert", "speziato"]
+  },
+  "bruschetta": {
+    "nome": "Bruschetta",
+    "origine": "Italia",
+    "categoria": "antipasto",
+    "descrizione": "Fette di pane abbrustolito strofinate con aglio e condite con pomodori freschi, basilico e olio extravergine. Antipasto semplice, fresco ed estivo.",
+    "ingredienti": ["pane casereccio", "pomodori", "aglio", "basilico", "olio extravergine d'oliva", "sale"],
+    "porzione_g": 100,
+    "calorie_kcal": 180,
+    "nutrienti_g": {"proteine": 5, "carboidrati": 26, "grassi": 6, "fibre": 2},
+    "tag": ["salato", "fresco", "leggero", "vegetariano", "estivo", "pomodoro", "antipasto", "croccante"]
+  },
+  "caesar_salad": {
+    "nome": "Caesar Salad",
+    "origine": "Messico / Stati Uniti",
+    "categoria": "insalata",
+    "descrizione": "Insalata di lattuga romana con crostini di pane, scaglie di parmigiano e una salsa cremosa a base di uovo, acciughe e limone. Spesso servita con pollo grigliato.",
+    "ingredienti": ["lattuga romana", "crostini di pane", "parmigiano", "uova", "acciughe", "limone", "olio", "pollo grigliato"],
+    "porzione_g": 250,
+    "calorie_kcal": 380,
+    "nutrienti_g": {"proteine": 22, "carboidrati": 15, "grassi": 26, "fibre": 3},
+    "tag": ["salato", "insalata", "fresco", "verdura", "pollo", "cremoso", "pranzo veloce"]
+  },
+  "caprese_salad": {
+    "nome": "Insalata Caprese",
+    "origine": "Italia (Capri)",
+    "categoria": "insalata",
+    "descrizione": "Fette di pomodoro e mozzarella alternate, condite con basilico fresco e olio extravergine. Piatto estivo, freschissimo e leggero, senza cottura.",
+    "ingredienti": ["pomodori", "mozzarella", "basilico", "olio extravergine d'oliva", "sale", "origano"],
+    "porzione_g": 200,
+    "calorie_kcal": 320,
+    "nutrienti_g": {"proteine": 17, "carboidrati": 6, "grassi": 25, "fibre": 1.5},
+    "tag": ["salato", "fresco", "leggero", "estivo", "vegetariano", "senza cottura", "pomodoro", "formaggio"]
+  },
+  "ceviche": {
+    "nome": "Ceviche",
+    "origine": "Perù",
+    "categoria": "secondo",
+    "descrizione": "Pesce crudo marinato nel succo di lime con cipolla rossa, peperoncino e coriandolo. Piatto di mare fresco, acidulo e leggermente piccante.",
+    "ingredienti": ["pesce bianco crudo", "lime", "cipolla rossa", "peperoncino", "coriandolo", "sale", "mais"],
+    "porzione_g": 200,
+    "calorie_kcal": 190,
+    "nutrienti_g": {"proteine": 28, "carboidrati": 10, "grassi": 3, "fibre": 2},
+    "tag": ["salato", "pesce", "crudo", "fresco", "leggero", "agrumi", "piccante", "estivo", "proteico"]
+  },
+  "chicken_curry": {
+    "nome": "Pollo al curry",
+    "origine": "India",
+    "categoria": "secondo",
+    "descrizione": "Bocconcini di pollo cotti lentamente in una salsa speziata a base di curry, pomodoro, cipolla e latte di cocco. Piatto caldo, saporito e piccante, ideale con riso basmati.",
+    "ingredienti": ["pollo", "curry", "cipolla", "aglio", "zenzero", "pomodoro", "latte di cocco", "riso basmati"],
+    "porzione_g": 350,
+    "calorie_kcal": 480,
+    "nutrienti_g": {"proteine": 32, "carboidrati": 40, "grassi": 20, "fibre": 4},
+    "tag": ["salato", "speziato", "piccante", "caldo", "pollo", "etnico", "saporito", "invernale"]
+  },
+  "churros": {
+    "nome": "Churros",
+    "origine": "Spagna",
+    "categoria": "dolce",
+    "descrizione": "Bastoncini di pasta fritta croccanti fuori e morbidi dentro, passati nello zucchero e cannella e spesso intinti nel cioccolato caldo o nel miele.",
+    "ingredienti": ["farina", "acqua", "zucchero", "cannella", "olio per friggere", "cioccolato fondente", "sale"],
+    "porzione_g": 100,
+    "calorie_kcal": 410,
+    "nutrienti_g": {"proteine": 5, "carboidrati": 47, "grassi": 22, "fibre": 1.5},
+    "tag": ["dolce", "fritto", "cioccolato", "cannella", "croccante", "street food", "merenda", "miele"]
+  },
+  "greek_salad": {
+    "nome": "Insalata greca",
+    "origine": "Grecia",
+    "categoria": "insalata",
+    "descrizione": "Insalata rustica di pomodori, cetrioli, cipolla rossa, olive Kalamata e feta, condita con olio d'oliva e origano. Fresca, croccante e leggera.",
+    "ingredienti": ["pomodori", "cetrioli", "cipolla rossa", "olive kalamata", "feta", "peperoni", "olio extravergine d'oliva", "origano"],
+    "porzione_g": 250,
+    "calorie_kcal": 270,
+    "nutrienti_g": {"proteine": 9, "carboidrati": 12, "grassi": 21, "fibre": 4},
+    "tag": ["salato", "fresco", "leggero", "vegetariano", "estivo", "verdura", "mediterraneo", "senza cottura"]
+  },
+  "guacamole": {
+    "nome": "Guacamole",
+    "origine": "Messico",
+    "categoria": "antipasto",
+    "descrizione": "Salsa cremosa di avocado schiacciato con lime, cipolla, pomodoro e coriandolo, servita con tortilla chips. Fresca, vegana e ricca di grassi buoni.",
+    "ingredienti": ["avocado", "lime", "cipolla", "pomodoro", "coriandolo", "peperoncino", "sale", "tortilla chips"],
+    "porzione_g": 150,
+    "calorie_kcal": 240,
+    "nutrienti_g": {"proteine": 3, "carboidrati": 13, "grassi": 21, "fibre": 9},
+    "tag": ["salato", "fresco", "vegano", "cremoso", "salsa", "aperitivo", "estivo", "messicano"]
+  },
+  "hamburger": {
+    "nome": "Hamburger",
+    "origine": "Stati Uniti",
+    "categoria": "street food",
+    "descrizione": "Panino morbido con polpetta di manzo alla griglia, formaggio fuso, insalata, pomodoro e salse. Piatto sostanzioso e goloso da fast food.",
+    "ingredienti": ["pane per hamburger", "carne di manzo macinata", "formaggio cheddar", "lattuga", "pomodoro", "cipolla", "ketchup", "maionese"],
+    "porzione_g": 250,
+    "calorie_kcal": 620,
+    "nutrienti_g": {"proteine": 32, "carboidrati": 42, "grassi": 35, "fibre": 2.5},
+    "tag": ["salato", "carne", "grigliato", "sostanzioso", "fast food", "goloso", "street food", "panino"]
+  },
+  "ice_cream": {
+    "nome": "Gelato",
+    "origine": "Italia",
+    "categoria": "dolce",
+    "descrizione": "Dessert freddo e cremoso a base di latte, panna e zucchero, disponibile in infiniti gusti come cioccolato, vaniglia e frutta. Perfetto per rinfrescarsi d'estate.",
+    "ingredienti": ["latte", "panna", "zucchero", "tuorli d'uovo", "vaniglia", "cioccolato", "frutta"],
+    "porzione_g": 100,
+    "calorie_kcal": 210,
+    "nutrienti_g": {"proteine": 3.5, "carboidrati": 24, "grassi": 11, "fibre": 0.5},
+    "tag": ["dolce", "freddo", "cremoso", "fresco", "estivo", "rinfrescante", "dessert"]
+  },
+  "lasagna": {
+    "nome": "Lasagne alla bolognese",
+    "origine": "Italia (Emilia-Romagna)",
+    "categoria": "primo",
+    "descrizione": "Strati di pasta all'uovo alternati a ragù di carne, besciamella e parmigiano, gratinati al forno. Piatto ricco, caldo e sostanzioso della domenica.",
+    "ingredienti": ["sfoglia all'uovo", "ragù di manzo e maiale", "besciamella", "parmigiano", "pomodoro", "burro"],
+    "porzione_g": 300,
+    "calorie_kcal": 560,
+    "nutrienti_g": {"proteine": 30, "carboidrati": 45, "grassi": 28, "fibre": 3},
+    "tag": ["salato", "pasta", "al forno", "carne", "sostanzioso", "caldo", "tradizionale", "invernale", "confortante"]
+  },
+  "miso_soup": {
+    "nome": "Zuppa di miso",
+    "origine": "Giappone",
+    "categoria": "zuppa",
+    "descrizione": "Brodo caldo dashi con pasta di miso, tofu a cubetti, alga wakame e cipollotto. Zuppa leggera, delicata e ipocalorica dal gusto umami.",
+    "ingredienti": ["brodo dashi", "pasta di miso", "tofu", "alga wakame", "cipollotto"],
+    "porzione_g": 250,
+    "calorie_kcal": 80,
+    "nutrienti_g": {"proteine": 6, "carboidrati": 7, "grassi": 3, "fibre": 1.5},
+    "tag": ["salato", "brodo", "caldo", "leggero", "ipocalorico", "umami", "giapponese", "vegetariano", "zuppa"]
+  },
+  "pancakes": {
+    "nome": "Pancakes",
+    "origine": "Stati Uniti",
+    "categoria": "colazione",
+    "descrizione": "Frittelle soffici cotte in padella, servite a pila con sciroppo d'acero o miele, burro e frutti di bosco. Classico della colazione americana.",
+    "ingredienti": ["farina", "latte", "uova", "burro", "zucchero", "lievito", "sciroppo d'acero", "frutti di bosco"],
+    "porzione_g": 200,
+    "calorie_kcal": 450,
+    "nutrienti_g": {"proteine": 11, "carboidrati": 68, "grassi": 15, "fibre": 2},
+    "tag": ["dolce", "colazione", "soffice", "sciroppo", "miele", "frutti di bosco", "brunch"]
+  },
+  "pizza": {
+    "nome": "Pizza Margherita",
+    "origine": "Italia (Napoli)",
+    "categoria": "piatto unico",
+    "descrizione": "Disco di impasto lievitato cotto in forno a legna con pomodoro, mozzarella e basilico. Il piatto italiano più famoso al mondo, da condividere.",
+    "ingredienti": ["farina", "lievito", "pomodoro", "mozzarella", "basilico", "olio extravergine d'oliva", "sale"],
+    "porzione_g": 300,
+    "calorie_kcal": 750,
+    "nutrienti_g": {"proteine": 30, "carboidrati": 95, "grassi": 26, "fibre": 5},
+    "tag": ["salato", "al forno", "formaggio", "pomodoro", "sostanzioso", "italiano", "da condividere", "vegetariano"]
+  },
+  "ramen": {
+    "nome": "Ramen",
+    "origine": "Giappone",
+    "categoria": "zuppa",
+    "descrizione": "Ciotola di noodles di grano in un brodo intenso di maiale o pollo, con uovo marinato, chashu, alga nori e cipollotto. Zuppa calda, saporita e appagante.",
+    "ingredienti": ["noodles di grano", "brodo di maiale", "salsa di soia", "uovo", "maiale chashu", "alga nori", "cipollotto", "germogli di soia"],
+    "porzione_g": 500,
+    "calorie_kcal": 550,
+    "nutrienti_g": {"proteine": 25, "carboidrati": 65, "grassi": 20, "fibre": 3},
+    "tag": ["salato", "brodo", "caldo", "noodles", "umami", "giapponese", "sostanzioso", "invernale", "confortante"]
+  },
+  "spaghetti_carbonara": {
+    "nome": "Spaghetti alla carbonara",
+    "origine": "Italia (Roma)",
+    "categoria": "primo",
+    "descrizione": "Spaghetti conditi con una crema di tuorli d'uovo e pecorino romano, guanciale croccante e abbondante pepe nero. Piatto romano ricco e cremoso.",
+    "ingredienti": ["spaghetti", "guanciale", "tuorli d'uovo", "pecorino romano", "pepe nero"],
+    "porzione_g": 250,
+    "calorie_kcal": 650,
+    "nutrienti_g": {"proteine": 27, "carboidrati": 70, "grassi": 28, "fibre": 3},
+    "tag": ["salato", "pasta", "cremoso", "uova", "formaggio", "sostanzioso", "romano", "tradizionale"]
+  },
+  "sushi": {
+    "nome": "Sushi",
+    "origine": "Giappone",
+    "categoria": "secondo",
+    "descrizione": "Bocconcini di riso condito con aceto di riso, abbinati a pesce crudo come salmone e tonno, alga nori e verdure. Piatto fresco, leggero ed elegante.",
+    "ingredienti": ["riso per sushi", "aceto di riso", "salmone", "tonno", "alga nori", "avocado", "cetriolo", "salsa di soia", "wasabi"],
+    "porzione_g": 200,
+    "calorie_kcal": 300,
+    "nutrienti_g": {"proteine": 14, "carboidrati": 50, "grassi": 5, "fibre": 2},
+    "tag": ["salato", "pesce", "crudo", "riso", "fresco", "leggero", "giapponese", "elegante"]
+  },
+  "tiramisu": {
+    "nome": "Tiramisù",
+    "origine": "Italia (Veneto)",
+    "categoria": "dolce",
+    "descrizione": "Dessert al cucchiaio con savoiardi inzuppati nel caffè e strati di crema al mascarpone, spolverati di cacao amaro. Cremoso e goloso.",
+    "ingredienti": ["savoiardi", "mascarpone", "uova", "zucchero", "caffè", "cacao amaro"],
+    "porzione_g": 120,
+    "calorie_kcal": 380,
+    "nutrienti_g": {"proteine": 7, "carboidrati": 35, "grassi": 23, "fibre": 1},
+    "tag": ["dolce", "caffè", "cremoso", "al cucchiaio", "cacao", "dessert", "italiano", "freddo"]
+  }
+}
